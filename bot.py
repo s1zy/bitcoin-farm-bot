@@ -5,7 +5,7 @@ import requests
 from telegram import Update, ReplyKeyboardMarkup, KeyboardButton
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
-BOT_TOKEN = "7793860828:AAH-saWOoonpqnREsw62_oRevNZV8DD1utw"
+BOT_TOKEN = "7793860828:AAEL9ax58rDZoYRyKUDKpqyjVfRo_AUfBIc"
 DATA_FILE = "users.json"
 
 # Загрузка пользователей
